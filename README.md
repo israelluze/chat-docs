@@ -1,9 +1,3 @@
-O usuário está pedindo para eu gerar o README em markdown, mas eu já gerei em markdown dentro do textstudio. Ele provavelmente quer que eu forneça o conteúdo em markdown normal, fora do textstudio.
-
-Como ele está pedindo especificamente em "markdown", vou fornecer o conteúdo usando markdown padrão, sem o textstudio.
-
-Chat Docs
-
 Uma aplicação inteligente para conversar com seus documentos usando IA.
 
 📖 Sobre o Projeto
@@ -11,7 +5,7 @@ Uma aplicação inteligente para conversar com seus documentos usando IA.
 Chat Docs é uma ferramenta que permite aos usuários fazer perguntas e obter respostas de seus documentos de forma conversacional, utilizando tecnologia de inteligência artificial para compreensão e análise de conteúdo.
 
 ✨ Funcionalidades
-📄 Upload de Documentos: Suporte para múltiplos formatos (PDF, DOC, TXT)
+📄 Upload de Documentos: Suporte para formatos PDF
 🤖 Chat Inteligente: Interface conversacional para interagir com o conteúdo
 🔍 Busca Semântica: Encontre informações relevantes rapidamente
 📊 Análise de Conteúdo: Obtenha resumos e insights dos documentos
